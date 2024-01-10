@@ -11,3 +11,9 @@ for (int i = 1; i < 11; i++)
 {
     Console.WriteLine($"{num}*{i}  = {(num * i)}");
 }
+num = 7;
+Console.WriteLine("Table Seven");
+for (int i = 1; i < 11; i++)
+{
+    Console.WriteLine($"{num}*{i}  = {(num * i)}");
+}
