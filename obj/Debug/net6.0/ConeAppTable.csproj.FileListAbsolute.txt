@@ -1,0 +1,14 @@
+C:\Mphasis\Phase-4\Day-4\ConeAppTable\ConeAppTable\bin\Debug\net6.0\ConeAppTable.exe
+C:\Mphasis\Phase-4\Day-4\ConeAppTable\ConeAppTable\bin\Debug\net6.0\ConeAppTable.deps.json
+C:\Mphasis\Phase-4\Day-4\ConeAppTable\ConeAppTable\bin\Debug\net6.0\ConeAppTable.runtimeconfig.json
+C:\Mphasis\Phase-4\Day-4\ConeAppTable\ConeAppTable\bin\Debug\net6.0\ConeAppTable.dll
+C:\Mphasis\Phase-4\Day-4\ConeAppTable\ConeAppTable\bin\Debug\net6.0\ConeAppTable.pdb
+C:\Mphasis\Phase-4\Day-4\ConeAppTable\ConeAppTable\obj\Debug\net6.0\ConeAppTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mphasis\Phase-4\Day-4\ConeAppTable\ConeAppTable\obj\Debug\net6.0\ConeAppTable.AssemblyInfoInputs.cache
+C:\Mphasis\Phase-4\Day-4\ConeAppTable\ConeAppTable\obj\Debug\net6.0\ConeAppTable.AssemblyInfo.cs
+C:\Mphasis\Phase-4\Day-4\ConeAppTable\ConeAppTable\obj\Debug\net6.0\ConeAppTable.csproj.CoreCompileInputs.cache
+C:\Mphasis\Phase-4\Day-4\ConeAppTable\ConeAppTable\obj\Debug\net6.0\ConeAppTable.dll
+C:\Mphasis\Phase-4\Day-4\ConeAppTable\ConeAppTable\obj\Debug\net6.0\refint\ConeAppTable.dll
+C:\Mphasis\Phase-4\Day-4\ConeAppTable\ConeAppTable\obj\Debug\net6.0\ConeAppTable.pdb
+C:\Mphasis\Phase-4\Day-4\ConeAppTable\ConeAppTable\obj\Debug\net6.0\ConeAppTable.genruntimeconfig.cache
+C:\Mphasis\Phase-4\Day-4\ConeAppTable\ConeAppTable\obj\Debug\net6.0\ref\ConeAppTable.dll
